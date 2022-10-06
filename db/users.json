@@ -16,5 +16,29 @@
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
     "money": 500
+  },
+  {
+    "username": "userna1",
+    "password": "$2b$12$lPr2RsQpR59PWVkmQzBV7e/AtIJRN0QxHwOLKobOEFnRkiTViU.ui",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "userna2",
+    "password": "$2b$12$6qQ9x/SVimJFr6wG0JXSNuT2NyDOEYFFZs5sXEv2gS8u1HnSfXFQq",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "userna3",
+    "password": "$2b$12$ulGgW0zlJs9GnSDMkTQ74eOZoi2dHDfrXY2MFOnVfvaRA/ZOO4DFm",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "userna4",
+    "password": "$2b$12$u02gsntiTdhuf7N3TCqnee7rN9oWqhoB1YW6wThM70thdI9JPh1zC",
+    "isAdmin": false,
+    "money": 0
   }
 ]
